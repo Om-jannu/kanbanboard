@@ -4,9 +4,9 @@ The Kanban Board is a web application built using React.js and React Bootstrap t
 
 ## Preview
 1. 
-   <img align="center" src="readmeAssets/kanbanboard1.jpg" alt="page1"  height="100" width="100" />
+   <img align="center" src="readmeAssets/kanbanboard1.jpg" alt="page1"  height="100%" width="100%" />
 2. 
-   <img align="center" src="readmeAssets/kanbanboard2.jpg" alt="page1"  height="100" width="100" />
+   <img align="center" src="readmeAssets/kanbanboard2.jpg" alt="page1"  height="100%" width="100%" />
 
 ## Features
 
