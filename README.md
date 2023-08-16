@@ -2,6 +2,12 @@
 
 The Kanban Board is a web application built using React.js and React Bootstrap that allows users to manage and organize tickets based on different groupings and sorting criteria. The app provides a visual representation of tickets in columns, each representing a specific grouping (status, user ID, or priority). Users can easily add new tickets to the columns and interact with existing tickets.
 
+## Preview
+1. 
+   <img align="center" src="readmeAssets/kanbanboard1.jpg" alt="page1"  height="100" width="100" />
+2. 
+   <img align="center" src="readmeAssets/kanbanboard2.jpg" alt="page1"  height="100" width="100" />
+
 ## Features
 
 - **Grouping and Sorting:** Users can group and sort tickets based on different criteria such as status, user ID, and priority. The app provides an intuitive interface for selecting these grouping and sorting options.
